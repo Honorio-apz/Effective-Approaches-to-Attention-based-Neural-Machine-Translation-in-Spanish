@@ -1,0 +1,1 @@
+Les comparto la traducción del paper Effective Approaches to Attention-based Neural Machine Translation (pueden encontrar original en: https://arxiv.org/abs/1508.04025v5), espero que les sea de ayuda y perdonen los errores en la traducción que seguro que hay.
